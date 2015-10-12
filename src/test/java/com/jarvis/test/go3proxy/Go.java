@@ -26,6 +26,7 @@ public class Go {
 
     static class JarvisProxy implements InvocationHandler {
 
+//        a
         Object oriObj;
 
         Object beProxy(Object oriObj) {
